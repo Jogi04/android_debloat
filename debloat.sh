@@ -6,6 +6,8 @@ then
   sudo pacman -S android-tools --noconfirm --needed
 fi
 
+echo "Starting removal..."
+
 apps=(
   # Facebook apps
   com.facebook.services
@@ -74,4 +76,6 @@ do
     adb shell pm uninstall --user 0 $app
 done
 
-echo "To reinstall any accidentally uninstalled packages run 'adb shell pm install-existing <package_name>'"
+echo 'Done!'
+
+echo 'To reinstall any accidentally uninstalled packages run "adb shell pm install-existing <package_name>"'
