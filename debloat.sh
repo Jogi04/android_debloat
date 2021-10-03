@@ -70,3 +70,5 @@ for app in ${apps[@]}
 do
     adb shell pm uninstall --user 0 $app
 done
+
+echo "To reinstall any accidently uninstalled packages run 'adb shell pm install-existing <package_name>'"
