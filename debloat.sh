@@ -19,6 +19,18 @@ apps=(
   com.microsoft.skydrive
 
   com.android.chrome
+
+  com.samsung.android.app.settings.bixby
+  com.samsung.android.bixby.agent
+  com.samsung.android.bixby.agent.dummy
+  com.samsung.android.bixby.es.globalaction
+  com.samsung.android.bixby.plmsync
+  com.samsung.android.bixby.service
+  com.samsung.android.bixby.voiceinput
+  com.samsung.android.bixby.wakeup
+  com.samsung.android.bixbyvision.framework
+  com.samsung.systemui.bixby
+  com.samsung.systemui.bixby2
 )
 
 for app in ${apps[@]}
