@@ -42,11 +42,7 @@ apps=(
   com.samsung.android.arzone
   com.samsung.android.app.tips
   com.samsung.android.lool
-
-  com.dsi.ant.plugins.antplus
-  com.dsi.ant.sample.acquirechannels
-  com.dsi.ant.server
-  com.dsi.ant.service.socket
+  com.samsung.android.ardrawing
 
   # Google apps
   com.google.android.apps.tachyon
@@ -63,6 +59,11 @@ apps=(
   # Netflix
   com.netflix.partner.activation
   com.netflix.mediaclient
+
+  com.dsi.ant.plugins.antplus
+  com.dsi.ant.sample.acquirechannels
+  com.dsi.ant.server
+  com.dsi.ant.service.socket
 )
 
 for app in ${apps[@]}
