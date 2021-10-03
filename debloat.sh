@@ -19,6 +19,7 @@ apps=(
   com.microsoft.skydrive
 
   com.android.chrome
+  com.sec.android.app.chromecustomizations
 
   com.samsung.android.app.settings.bixby
   com.samsung.android.bixby.agent
