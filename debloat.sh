@@ -36,6 +36,8 @@ apps=(
   com.samsung.android.app.spage
 
   com.samsung.android.arzone
+
+  com.samsung.android.app.tips
 )
 
 for app in ${apps[@]}
