@@ -17,6 +17,8 @@ apps=(
   com.microsoft.office.powerpoint
   com.microsoft.office.word
   com.microsoft.skydrive
+
+  com.android.chrome
 )
 
 for app in ${apps[@]}
