@@ -7,20 +7,21 @@ then
 fi
 
 apps=(
+  # Facebook apps
   com.facebook.services
   com.facebook.katana
   com.facebook.system
   com.facebook.appmanager
 
+  # Microsoft apps
   com.microsoft.appmanager
   com.microsoft.office.excel
   com.microsoft.office.powerpoint
   com.microsoft.office.word
   com.microsoft.skydrive
+  com.skype.raider
 
-  com.android.chrome
-  com.sec.android.app.chromecustomizations
-
+  # Samsung Bixby
   com.samsung.android.app.settings.bixby
   com.samsung.android.bixby.agent
   com.samsung.android.bixby.agent.dummy
@@ -36,18 +37,18 @@ apps=(
   com.samsung.android.app.routines
   com.samsung.android.app.spage
 
+  # Samsung apps
   com.samsung.android.app.watchmanagerstub
   com.samsung.android.arzone
   com.samsung.android.app.tips
   com.samsung.android.lool
-
-  com.skype.raider
 
   com.dsi.ant.plugins.antplus
   com.dsi.ant.sample.acquirechannels
   com.dsi.ant.server
   com.dsi.ant.service.socket
 
+  # Google apps
   com.google.android.apps.tachyon
   com.google.android.apps.maps
   com.google.android.apps.docs
@@ -56,7 +57,10 @@ apps=(
   com.google.android.music
   com.google.android.videos
   com.google.android.youtube.music
+  com.android.chrome
+  com.sec.android.app.chromecustomizations
 
+  # Netflix
   com.netflix.partner.activation
   com.netflix.mediaclient
 )
