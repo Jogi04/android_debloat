@@ -56,6 +56,9 @@ apps=(
   com.google.android.googlequicksearchbox
   com.google.android.music
   com.google.android.videos
+
+  com.netflix.partner.activation
+  com.netflix.mediaclient
 )
 
 for app in ${apps[@]}
