@@ -34,6 +34,8 @@ apps=(
   com.samsung.android.visionintelligence
   com.samsung.android.app.routines
   com.samsung.android.app.spage
+
+  com.samsung.android.arzone
 )
 
 for app in ${apps[@]}
