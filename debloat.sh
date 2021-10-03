@@ -43,6 +43,9 @@ apps=(
   com.samsung.android.app.tips
   com.samsung.android.lool
   com.samsung.android.ardrawing
+  com.sec.android.mimage.avatarstickers
+  com.samsung.android.aremoji
+  com.samsung.android.aremojieditor
 
   # Google apps
   com.google.android.apps.tachyon
