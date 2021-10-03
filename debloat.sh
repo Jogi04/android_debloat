@@ -40,6 +40,8 @@ apps=(
   com.samsung.android.app.tips
 
   com.samsung.android.lool
+
+  com.skype.raider
 )
 
 for app in ${apps[@]}
