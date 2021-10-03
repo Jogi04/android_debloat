@@ -36,10 +36,9 @@ apps=(
   com.samsung.android.app.routines
   com.samsung.android.app.spage
 
+  com.samsung.android.app.watchmanagerstub
   com.samsung.android.arzone
-
   com.samsung.android.app.tips
-
   com.samsung.android.lool
 
   com.skype.raider
