@@ -38,6 +38,8 @@ apps=(
   com.samsung.android.arzone
 
   com.samsung.android.app.tips
+
+  com.samsung.android.lool
 )
 
 for app in ${apps[@]}
