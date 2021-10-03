@@ -11,6 +11,12 @@ apps=(
   com.facebook.katana
   com.facebook.system
   com.facebook.appmanager
+
+  com.microsoft.appmanager
+  com.microsoft.office.excel
+  com.microsoft.office.powerpoint
+  com.microsoft.office.word
+  com.microsoft.skydrive
 )
 
 for app in ${apps[@]}
