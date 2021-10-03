@@ -42,6 +42,11 @@ apps=(
   com.samsung.android.lool
 
   com.skype.raider
+
+  com.dsi.ant.plugins.antplus
+  com.dsi.ant.sample.acquirechannels
+  com.dsi.ant.server
+  com.dsi.ant.service.socket
 )
 
 for app in ${apps[@]}
