@@ -56,6 +56,7 @@ apps=(
   com.google.android.googlequicksearchbox
   com.google.android.music
   com.google.android.videos
+  com.google.android.youtube.music
 
   com.netflix.partner.activation
   com.netflix.mediaclient
