@@ -31,6 +31,9 @@ apps=(
   com.samsung.android.bixbyvision.framework
   com.samsung.systemui.bixby
   com.samsung.systemui.bixby2
+  com.samsung.android.visionintelligence
+  com.samsung.android.app.routines
+  com.samsung.android.app.spage
 )
 
 for app in ${apps[@]}
