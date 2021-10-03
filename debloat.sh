@@ -48,6 +48,14 @@ apps=(
   com.dsi.ant.sample.acquirechannels
   com.dsi.ant.server
   com.dsi.ant.service.socket
+
+  com.google.android.apps.tachyon
+  com.google.android.apps.maps
+  com.google.android.apps.docs
+  com.google.android.apps.photos
+  com.google.android.googlequicksearchbox
+  com.google.android.music
+  com.google.android.videos
 )
 
 for app in ${apps[@]}
