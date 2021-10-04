@@ -48,6 +48,7 @@ apps=(
   com.sec.android.mimage.avatarstickers
   com.samsung.android.aremoji
   com.samsung.android.aremojieditor
+  com.sec.android.app.sbrowser
 
   # Google apps
   com.google.android.apps.tachyon
