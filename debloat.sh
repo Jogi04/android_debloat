@@ -55,6 +55,7 @@ apps=(
   com.samsung.android.game.gamehome                           # Game Launcher
   com.samsung.android.game.gametools                          # Game Launcher
   com.samsung.android.game.gos                                # Game Launcher
+  com.samsung.android.kidsinstaller                           # Samsung Kids
 
   # Google apps
   com.google.android.apps.tachyon                             # Google Duo
