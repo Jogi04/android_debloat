@@ -81,9 +81,10 @@ apps=(
 
 for app in ${apps[@]}
 do
+    echo "Removing ${app} ..."
     adb shell pm uninstall --user 0 $app
 done
 
-echo 'Done!'
+echo "Done!"
 
-echo 'To reinstall any accidentally uninstalled packages run "adb shell pm install-existing <package_name>"'
+echo "To reinstall any accidentally uninstalled packages run 'adb shell pm install-existing <package_name>'"
