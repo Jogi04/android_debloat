@@ -84,6 +84,7 @@ apps=(
   com.google.android.feedback                                 # Feedback
   com.google.android.gm                                       # Gmail
   com.google.android.talk                                     # Hangouts
+  com.google.android.tts                                      # Google text to speech
 
   # ANT+ Service apps
   com.dsi.ant.plugins.antplus
