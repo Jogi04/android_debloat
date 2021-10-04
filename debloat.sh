@@ -44,7 +44,7 @@ apps=(
   com.samsung.android.arzone                                  # AR Zone
   com.samsung.android.app.tips                                # Tips
   com.samsung.android.lool                                    # Device care
-  com.samsung.android.ardrawing                               # AR Drawing
+  com.samsung.android.ardrawing                               # AR Doodle
   com.sec.android.mimage.avatarstickers                       # AR Stickers
   com.samsung.android.aremoji                                 # AR Emojis
   com.samsung.android.aremojieditor                           # AR Emojis
