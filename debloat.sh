@@ -60,6 +60,15 @@ apps=(
   com.samsung.android.app.galaxyfinder                        # Finder
   com.samsung.android.location
   com.sec.android.app.samsungapps                             # Galaxy Store
+  com.samsung.android.themestore                              # Galaxy Themes
+  com.samsung.android.svoiceime                               # SVoice
+  com.samsung.knox.securefolder                               # Secure folder
+  com.samsung.android.samsungpass                             # Samsung Pass
+  com.samsung.android.samsungpassautofill                     # Samsung Pass
+  com.samsung.android.spayfw                                  # Samsung Pay
+  com.sec.android.app.billing                                 # Samsung Billing
+  com.samsung.android.app.simplesharing                       # Simple Sharing
+  com.samsung.android.mobileservice                           # Group sharing
 
   # Google apps
   com.google.android.apps.tachyon                             # Google Duo
@@ -74,6 +83,7 @@ apps=(
   com.sec.android.app.chromecustomizations                    # Google Chrome customizations
   com.google.android.feedback                                 # Feedback
   com.google.android.gm                                       # Gmail
+  com.google.android.talk                                     # Hangouts
 
   # ANT+ Service apps
   com.dsi.ant.plugins.antplus
