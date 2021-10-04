@@ -17,11 +17,11 @@ apps=(
 
   # Microsoft apps
   com.microsoft.appmanager
-  com.microsoft.office.excel
-  com.microsoft.office.powerpoint
-  com.microsoft.office.word
-  com.microsoft.skydrive
-  com.skype.raider
+  com.microsoft.office.excel                              # Excel
+  com.microsoft.office.powerpoint                         # PowerPoint
+  com.microsoft.office.word                               # Word
+  com.microsoft.skydrive                                  # One drive
+  com.skype.raider                                        # Skype
 
   # Samsung Bixby
   com.samsung.android.app.settings.bixby
@@ -41,29 +41,29 @@ apps=(
 
   # Samsung apps
   com.samsung.android.app.watchmanagerstub
-  com.samsung.android.arzone
-  com.samsung.android.app.tips
-  com.samsung.android.lool
-  com.samsung.android.ardrawing
-  com.sec.android.mimage.avatarstickers
-  com.samsung.android.aremoji
-  com.samsung.android.aremojieditor
-  com.sec.android.app.sbrowser
+  com.samsung.android.arzone                                  # AR Zone
+  com.samsung.android.app.tips                                # Tips
+  com.samsung.android.lool                                    # Device care
+  com.samsung.android.ardrawing                               # AR Drawing
+  com.sec.android.mimage.avatarstickers                       # AR Stickers
+  com.samsung.android.aremoji                                 # AR Emojis
+  com.samsung.android.aremojieditor                           # AR Emojis
+  com.sec.android.app.sbrowser                                # Samsung Internet browser
   com.samsung.android.mateagent                               # Galaxy friends
 
   # Google apps
-  com.google.android.apps.tachyon
-  com.google.android.apps.maps
-  com.google.android.apps.docs
-  com.google.android.apps.photos
-  com.google.android.googlequicksearchbox
-  com.google.android.music
-  com.google.android.videos
-  com.google.android.youtube.music
-  com.android.chrome
-  com.sec.android.app.chromecustomizations
-  com.google.android.feedback
-  com.google.android.gm
+  com.google.android.apps.tachyon                             # Google Duo
+  com.google.android.apps.maps                                # Google Maps
+  com.google.android.apps.docs                                # Google Drive
+  com.google.android.apps.photos                              # Google Photos
+  com.google.android.googlequicksearchbox                     # Google search box
+  com.google.android.music                                    # Youtube Music
+  com.google.android.videos                                   # Google Play Movies & TV
+  com.google.android.youtube.music                            # Youtube Music
+  com.android.chrome                                          # Google Chrome
+  com.sec.android.app.chromecustomizations                    # Google Chrome customizations
+  com.google.android.feedback                                 # Feedback
+  com.google.android.gm                                       # Gmail
 
   # Netflix
   com.netflix.partner.activation
