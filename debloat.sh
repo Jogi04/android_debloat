@@ -65,15 +65,18 @@ apps=(
   com.google.android.feedback                                 # Feedback
   com.google.android.gm                                       # Gmail
 
-  # Netflix
-  com.netflix.partner.activation
-  com.netflix.mediaclient
-
   # ANT+ Service apps
   com.dsi.ant.plugins.antplus
   com.dsi.ant.sample.acquirechannels
   com.dsi.ant.server
   com.dsi.ant.service.socket
+
+  # Netflix
+  com.netflix.partner.activation
+  com.netflix.mediaclient
+
+  # Twitter
+  com.twitter.android
 )
 
 for app in ${apps[@]}
