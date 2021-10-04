@@ -52,6 +52,9 @@ apps=(
   com.samsung.android.mateagent                               # Galaxy friends
   com.samsung.android.scloud                                  # Samsung Cloud
   com.samsung.storyservice                                    # Tracks device activity
+  com.samsung.android.game.gamehome                           # Game Launcher
+  com.samsung.android.game.gametools                          # Game Launcher
+  com.samsung.android.game.gos                                # Game Launcher
 
   # Google apps
   com.google.android.apps.tachyon                             # Google Duo
