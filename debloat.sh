@@ -45,7 +45,7 @@ apps=(
   com.samsung.android.app.tips                                # Tips
   com.samsung.android.lool                                    # Device care
   com.samsung.android.ardrawing                               # AR Doodle
-  com.sec.android.mimage.avatarstickers                       # AR Stickers
+  com.sec.android.mimage.avatarstickers                       # Stickers for AR Emoji app
   com.samsung.android.aremoji                                 # AR Emojis
   com.samsung.android.aremojieditor                           # AR Emojis
   com.sec.android.app.sbrowser                                # Samsung Internet browser
