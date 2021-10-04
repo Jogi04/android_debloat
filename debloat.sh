@@ -49,6 +49,7 @@ apps=(
   com.samsung.android.aremoji
   com.samsung.android.aremojieditor
   com.sec.android.app.sbrowser
+  com.samsung.android.mateagent                               # Galaxy friends
 
   # Google apps
   com.google.android.apps.tachyon
