@@ -40,7 +40,7 @@ apps=(
   com.samsung.android.app.spage
 
   # Samsung apps
-  com.samsung.android.app.watchmanagerstub
+  com.samsung.android.app.watchmanagerstub                    # Galaxy Watch
   com.samsung.android.arzone                                  # AR Zone
   com.samsung.android.app.tips                                # Tips
   com.samsung.android.lool                                    # Device care
