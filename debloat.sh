@@ -60,11 +60,14 @@ apps=(
   com.google.android.youtube.music
   com.android.chrome
   com.sec.android.app.chromecustomizations
+  com.google.android.feedback
+  com.google.android.gm
 
   # Netflix
   com.netflix.partner.activation
   com.netflix.mediaclient
 
+  # ANT+ Service apps
   com.dsi.ant.plugins.antplus
   com.dsi.ant.sample.acquirechannels
   com.dsi.ant.server
