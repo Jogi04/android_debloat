@@ -50,6 +50,8 @@ apps=(
   com.samsung.android.aremojieditor                           # AR Emojis
   com.sec.android.app.sbrowser                                # Samsung Internet browser
   com.samsung.android.mateagent                               # Galaxy friends
+  com.samsung.android.scloud                                  # Samsung Cloud
+  com.samsung.storyservice                                    # Tracks device activity
 
   # Google apps
   com.google.android.apps.tachyon                             # Google Duo
