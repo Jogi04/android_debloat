@@ -41,10 +41,9 @@ apps=(
 
   # Samsung apps
   com.samsung.android.app.watchmanagerstub                    # Galaxy Watch
-   	com.samsung.android.app.watchmanager                      # Galaxy Watch
+  com.samsung.android.app.watchmanager                      # Galaxy Watch
   com.samsung.android.arzone                                  # AR Zone
   com.samsung.android.app.tips                                # Tips
-  com.samsung.android.lool                                    # Device care
   com.samsung.android.ardrawing                               # AR Doodle
   com.sec.android.mimage.avatarstickers                       # Stickers for AR Emoji app
   com.samsung.android.aremoji                                 # AR Emojis
